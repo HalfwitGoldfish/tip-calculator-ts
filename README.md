@@ -10,4 +10,4 @@ Reviewers Name:
 
 Peer Review: 
 
-Vercel Link: 
+Vercel Link: https://tip-calculator-ts-six.vercel.app
